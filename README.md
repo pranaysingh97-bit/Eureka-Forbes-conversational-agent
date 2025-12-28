@@ -9,6 +9,7 @@ actual output!
 * **Tag the Tech:** You might want to tag **Google Cloud** or **Google AI** since you used the Gemini API.
 
 Summary: How Gemini is used twice
+
 Think of it like a library:
 
 The Embedding AI: Is the expert librarian who has read every book and knows exactly where every idea is located, even if the titles are different.
