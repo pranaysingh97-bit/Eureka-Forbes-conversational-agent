@@ -6,7 +6,7 @@
 * **Gemini 1.5 Flash Generation:** Used the Flash model for the final synthesis. **Why?** It provides the perfect balance of low latency and high reasoning capability to generate professional, context-grounded answers.
 * **Conversational Memory:** Implemented stateful chat sessions. **Why?** So the bot understands follow-up questions like "Does it cover filters?" by maintaining the history of the "it" (the purifier).
 actual output!
-* **Tag the Tech:** You might want to tag **Google Cloud** or **Google AI** since you used the Gemini API.
+
 
 Summary: How Gemini is used twice
 
